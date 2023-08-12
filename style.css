@@ -1,1 +1,16 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
 
+#coordinates {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f5f5f5;
+  box-shadow: 0 2px 4px rgba(red, green, blue, alpha);
+}
+
+span {
+  font-weight: bold;
+}
